@@ -1,0 +1,12 @@
+How to use
+---------
+
+You can use this attached file by:
+
+1) Run my code
+For this, you have to install node.js and expo. After extracting, you can navigate into them in your command prompt/ terminal (via the "cd" command) and run
+- npm install
+- npm start
+---------------------OR----------------------
+
+-Run in web browser.
